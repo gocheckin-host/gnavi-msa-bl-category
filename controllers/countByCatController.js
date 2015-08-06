@@ -28,7 +28,7 @@
   6. Export the function as "getCountByCat".
 
 
-  TODO_06
+  TODO_05
   1. Get rid of the dummy data.
   
   For details, please reference to business_logic_layer_area/controller/countByAreaController.js.
